@@ -4,3 +4,4 @@
 *.cfg
 *.weights
 coco.names
+/data/*
