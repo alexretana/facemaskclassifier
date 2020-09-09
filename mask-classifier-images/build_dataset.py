@@ -7,7 +7,6 @@ from tqdm import tqdm
 
 #######################################
 # Variable Constants #
-ORIG_INPUT_DATASET = "mask-classifer-images"
 BASE_PATH = "dataset"
 
 TRAIN = "training"
