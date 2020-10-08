@@ -7,3 +7,5 @@ coco.names
 /data/*
 output/*
 !images/
+imgaes/*
+!images/*.jpg
