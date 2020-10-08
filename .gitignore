@@ -6,3 +6,4 @@
 coco.names
 /data/*
 output/*
+!images/
